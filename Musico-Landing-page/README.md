@@ -6,6 +6,7 @@
 
 # Output :-
 
-![Musico-home pg](https://github.com/vijayab0311/Octanet-Sept-2023/assets/116110936/ea9eb6fe-97d5-4814-a0f7-206ff37f7ba9)
+
+![Musico-home pg](https://github.com/vijayab0311/Octanet-Sept-2023/assets/116110936/6a16c18e-b4f1-497c-87a6-fdd9e78bf52d)
 
 
